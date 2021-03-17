@@ -1,2 +1,2 @@
-# typofiction
+# TypoFiction
 TypoFiction
