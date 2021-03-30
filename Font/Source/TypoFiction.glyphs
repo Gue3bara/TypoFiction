@@ -1,11 +1,17 @@
 {
-.appVersion = "1355";
+.appVersion = "1356";
 DisplayStrings = (
 "/alef-ar.fina",
 ""
 );
-date = "2021-03-17 11:52:01 +0000";
-familyName = TypoFictiomn;
+customParameters = (
+{
+name = "Disable Subroutines";
+value = 1;
+}
+);
+date = "2021-03-30 12:25:36 +0000";
+familyName = TypoFiction;
 featurePrefixes = (
 {
 automatic = 1;
@@ -83958,5 +83964,5 @@ name = Regular;
 );
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }
