@@ -1,9 +1,5 @@
 {
 .appVersion = "1356";
-DisplayStrings = (
-"/alef-ar.fina",
-""
-);
 customParameters = (
 {
 name = "Disable Subroutines";
@@ -56,7 +52,7 @@ xHeight = 500;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2021-03-17 11:09:21 +0000";
+lastChange = "2021-03-30 13:13:23 +0000";
 layers = (
 {
 layerId = "FA4C3D31-6083-40AA-AA8D-5F0A4E7B51FE";
@@ -87,9 +83,15 @@ nodes = (
 "533 300 CURVE",
 "533 546 LINE",
 "533 546 OFFCURVE",
-"73 558 OFFCURVE",
-"85 403 CURVE SMOOTH",
-"99 248 OFFCURVE",
+"525 546 OFFCURVE",
+"510 546 CURVE SMOOTH",
+"419 546 OFFCURVE",
+"85 537 OFFCURVE",
+"85 409 CURVE SMOOTH",
+"85 312 OFFCURVE",
+"224 264 OFFCURVE",
+"401 264 CURVE SMOOTH",
+"417 264 OFFCURVE",
 "427 264 OFFCURVE",
 "427 264 CURVE",
 "427 178 LINE",
@@ -97,8 +99,11 @@ nodes = (
 "83 158 LINE",
 "247 158 LINE",
 "249 158 LINE",
-"257 151 OFFCURVE",
-"285 123 OFFCURVE",
+"254 154 OFFCURVE",
+"267 141 OFFCURVE",
+"267 125 CURVE SMOOTH",
+"267 116 OFFCURVE",
+"262 105 OFFCURVE",
 "248 94 CURVE"
 );
 }
@@ -110,7 +115,7 @@ unicode = 0041;
 },
 {
 glyphname = B;
-lastChange = "2021-03-17 11:09:47 +0000";
+lastChange = "2021-03-30 13:12:20 +0000";
 layers = (
 {
 layerId = "FA4C3D31-6083-40AA-AA8D-5F0A4E7B51FE";
@@ -118,14 +123,7 @@ paths = (
 {
 closed = 1;
 nodes = (
-"238 306 OFFCURVE",
-"237 305 OFFCURVE",
-"235 304 CURVE",
-"235 304 OFFCURVE",
-"235 303 OFFCURVE",
-"235 303 CURVE",
-"177 279 OFFCURVE",
-"162 253 OFFCURVE",
+"238 329 OFFCURVE",
 "161 252 CURVE",
 "153 258 LINE",
 "145 261 LINE",
@@ -150,8 +148,9 @@ nodes = (
 "576 100 CURVE",
 "576 343 LINE",
 "576 343 OFFCURVE",
-"372 348 OFFCURVE",
-"241 306 CURVE"
+"542 346 OFFCURVE",
+"493 346 CURVE SMOOTH",
+"366 346 OFFCURVE"
 );
 },
 {
